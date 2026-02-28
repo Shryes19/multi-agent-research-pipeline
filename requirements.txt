@@ -1,0 +1,4 @@
+aisuite
+python-dotenv
+ipython
+jupyter
